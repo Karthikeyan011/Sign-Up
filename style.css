@@ -1,0 +1,17 @@
+.f1{
+    border: 3px solid black;
+    width: 300px;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    background-color:blanchedalmond;
+    
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+table{
+    border-spacing: 15px 25px;
+}
